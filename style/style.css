@@ -41,17 +41,13 @@ div[class^="picture"] {
     border-radius: 10px;
 }
 .about {
-    height: 400px;
+    height: 700px;
     background-color: #1ABC9C;
-    position: relative;
 }
 .about h2 {
     text-align: center;
 }
 .about p {
-    position: absolute;
-    width: 50%;
-    left: 25%;
 }
 .contactme {
     height: 300px;
