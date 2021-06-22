@@ -1,5 +1,4 @@
 header {
-    height: 100px;
     background-color: #2C3E50;
 }
 header img {
@@ -7,39 +6,52 @@ header img {
     width: 20px;
 }
 .jumbotrone {
-    height: 300px;
+    height: 500px;
     background-color: #1ABC9C;
 }
 .portfolio {
     height: 100px;
 }
 .picture1{
-    height: 200px;
+    height: 300px;
     background-color: #BA4B63;
 }
 .picture2 {
-    height: 200px;
+    height: 300px;
     background-color: #1EA4B6;
 }
 .picture3 {
-    height: 200px;
+    height: 300px;
     background-color: #140F0F;
 }
 .picture4 {
-    height: 200px;
+    height: 300px;
     background-color: #1C83C1;
 }
 .picture5 {
-    height: 200px;
+    height: 300px;
     background-color: #0E38B5;
 }
 .picture6 {
-    height: 200px;
+    height: 300px;
     background-color: #CCB2A3;
+}
+div[class^="picture"] {
+    margin: 15px 0;
+    border-radius: 10px;
 }
 .about {
     height: 400px;
     background-color: #1ABC9C;
+    position: relative;
+}
+.about h2 {
+    text-align: center;
+}
+.about p {
+    position: absolute;
+    width: 50%;
+    left: 25%;
 }
 .contactme {
     height: 300px;
