@@ -5,7 +5,7 @@
     background-color: #1ABC9C;
 }
 img {
-    width: 50%;
+    width: 30%;
 }
 .picture img {
     width: 90%;
@@ -32,7 +32,6 @@ img {
     background-color: #CCB2A3;
 }
 div[class^="picture"] {
-    margin: 15px 0;
     border-radius: 10px;
 }
 .about {
@@ -40,8 +39,6 @@ div[class^="picture"] {
 }
 .about h2 {
     text-align: center;
-}
-.about p {
 }
 .contactme .form-control {
     border: 0;
