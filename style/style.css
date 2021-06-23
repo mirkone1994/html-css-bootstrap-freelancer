@@ -1,3 +1,12 @@
+.txt-color-white {
+    color: #fff;
+}
+.txt-color-dblue {
+    color: #3A546D;
+}
+.txt-color-green {
+    color: #1ABC9C;
+}
 .bg-dblue {
     background-color: #2C3E50;
 }
@@ -9,9 +18,6 @@ img {
 }
 .picture img {
     width: 90%;
-}
-.portfolio {
-    height: 100px;
 }
 .picture1{
     background-color: #BA4B63;
@@ -36,9 +42,6 @@ div[class^="picture"] {
 }
 .about {
     background-color: #1ABC9C;
-}
-.about h2 {
-    text-align: center;
 }
 .contactme .form-control {
     border: 0;
