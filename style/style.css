@@ -1,9 +1,5 @@
-header {
+.bg-dblue {
     background-color: #2C3E50;
-}
-header img {
-    height: 20px;
-    width: 20px;
 }
 .jumbotrone {
     height: 500px;
